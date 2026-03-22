@@ -16,11 +16,11 @@ I enjoy designing clean APIs, working with async systems, and solving real-world
 
 ### 🛠 Tech Stack
 - **Languages:** Python, SQL  
-- **Backend:** FastAPI, SQLAlchemy, Alembic  
+- **Backend:** FastAPI, SQLAlchemy, Alembic, gRPC  
 - **Databases:** PostgreSQL, Redis  
 - **Async & Background:** Celery, Redis  
 - **Auth & Security:** JWT, RBAC, OAuth (basic)  
-- **DevOps:** Docker, Docker Compose, GitHub Actions  
+- **DevOps:** Docker, Docker Compose, GitHub Actions, AWS  
 - **Testing:** Pytest  
 
 ---
