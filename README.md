@@ -1,46 +1,72 @@
 ## Hi, I’m Kolade 👋
 
-Backend-focused engineer passionate about building **secure, scalable, and production-ready backend systems**.
-I enjoy designing clean APIs, working with async systems, and solving real-world problems with Python.
+**Backend & AI Engineer** building **production-grade, high-performance systems** where scalability meets reliability.  
+I combine a Mechatronics Engineering foundation with deep expertise in FastAPI, distributed task queues, and AI infrastructure to ship clean, maintainable, and battle-tested backends.
 
 ---
 
 ### 🧠 What I Do
-- Build backend services using **FastAPI**
-- Design **authentication & role-based access control (RBAC)**
-- Work with **PostgreSQL**, async processing, and background jobs
-- Structure codebases for **maintainability and scalability**
-- Integrate third-party services (payments, notifications, caching)
+- Architect **fault-tolerant distributed systems** with Celery, Redis, and AWS SQS
+- Build **high-performance RAG pipelines** and self-healing MLOps workflows
+- Design **real-time microservices** using FastAPI + gRPC
+- Implement **robust security & multi-tenancy** (JWT, RBAC, AWS Cognito)
+- Optimize **Core Web Vitals** and async architectures for production scale
+- Contribute to open-source AI infrastructure projects
 
 ---
 
 ### 🛠 Tech Stack
-- **Languages:** Python, SQL  
-- **Backend:** FastAPI, SQLAlchemy, Alembic, gRPC  
-- **Databases:** PostgreSQL, Redis  
-- **Async & Background:** Celery, Redis  
-- **Auth & Security:** JWT, RBAC, OAuth (basic)  
-- **DevOps:** Docker, Docker Compose, GitHub Actions, AWS  
-- **Testing:** Pytest  
+
+**Languages**  
+Python (Async) • SQL (PostgreSQL) • Protobuf
+
+**Backend & Distributed Systems**  
+FastAPI • gRPC • Celery • Redis (Lua scripts) • SQLAlchemy • Alembic • AWS SQS • JWT • RBAC
+
+**AI & Vector Engineering**  
+LlamaIndex (Workflows & RAG) • pgvector (HNSW) • ONNX Runtime • Ollama • Scikit-learn
+
+**Infrastructure & DevOps**  
+Docker • Docker Compose • AWS (Lambda, S3, Cognito, SQS) • GitHub Actions • LocalStack
+
+**Specialized**  
+Embedded Systems (Raspberry Pi) • Sensor Fusion • Real-time Fraud Orchestration • Performance Optimization
 
 ---
 
 ### 🚀 Featured Projects
-- **AI Document Intelligence Platform**  
-  Backend system for document ingestion, processing, and async analysis.
 
-- **E-Pharmacy E-commerce Backend**  
-  Production-style backend with authentication, payments, order lifecycle, and notifications.
+**Engram — High-Performance RAG & Document Intelligence**  
+Production-ready Retrieval-Augmented Generation platform with pgvector HNSW indexing, Celery + Redis async pipelines, SHA-256 deduplication, and hardware-accelerated inference (RTX 4060). Features JWT multi-tenancy and zero data-loss guarantees.
+
+**Phalanx — Real-Time Fraud Orchestration & MLOps Engine**  
+High-throughput microservice ecosystem (FastAPI + gRPC) achieving 66ms transaction SLA and sub-millisecond ML inference. Includes self-healing retraining pipelines, ONNX-optimized XGBoost, agentic AI (Gemma), and AWS Cognito RBAC.
+
+**E-Pharmacy E-commerce Backend**  
+Scalable multi-module system with user management, order lifecycle, inventory, Stripe payments, and real-time reconciliation.
 
 ---
 
-### 📌 Currently
-- Improving backend architecture and service boundaries
-- Building portfolio-grade, production-style systems
-- Preparing for remote backend engineering roles
+### 🌟 Open Source Contributions
+
+- **Sandhi AI** (Distributed Task Queue & System Reliability)  
+  Took ownership of a major production reliability epic. Delivered 600+ lines of improvements including queue isolation, atomic admission control, circuit breakers, Celery migration, fault-tolerant retries, and overload protection.
+
+- **InclusionAI – AReal (Distributed AI Inference System)**  
+  Refactored RTensor storage endpoints with Pydantic models, migrated legacy Flask blueprints to FastAPI, and introduced reusable schema architecture + enhanced validation.
+
+- **WebTech Network – Autograder System**  
+  Eliminated import-time side effects in Redis driver and introduced constructor-based dependency injection with FastAPI lifespan events.
 
 ---
 
 ### 📫 Let’s Connect
-- GitHub: https://github.com/koladefaj  
-- LinkedIn: https://www.linkedin.com/in/kolade-fajimi-1504b8246  
+- **GitHub:** [github.com/koladefaj](https://github.com/koladefaj)
+- **LinkedIn:** [linkedin.com/in/kolade-fajimi](https://linkedin.com/in/kolade-fajimi)
+- **X / Twitter:** [@akoladefaj](https://x.com/akoladefaj)
+- **Resume:** Available on request
+
+---
+
+**Always open to interesting conversations about distributed systems, AI infrastructure, or backend architecture.**  
+Let’s build something great together! 🚀
