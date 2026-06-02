@@ -36,6 +36,11 @@ Embedded Systems (Raspberry Pi) • Sensor Fusion • Real-time Fraud Orchestrat
 
 ### 🚀 Featured Projects
 
+**Relier — Zero-Job-Loss Reliability Layer for Celery**
+Open-source reliability layer implementing the Phoenix Pattern. 
+100% task delivery under worker failure. pip install relier
+github.com/getrelier/relier
+
 **Engram — High-Performance RAG & Document Intelligence**  
 Production-ready Retrieval-Augmented Generation platform with pgvector HNSW indexing, Celery + Redis async pipelines, SHA-256 deduplication, and hardware-accelerated inference (RTX 4060). Features JWT multi-tenancy and zero data-loss guarantees.
 
