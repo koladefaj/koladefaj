@@ -1,36 +1,38 @@
 ## Hi, I’m Kolade 👋
 
-**Backend & AI Engineer** building **production-grade, high-performance systems** where scalability meets reliability.  
-I combine a Mechatronics Engineering foundation with deep expertise in FastAPI, distributed task queues, and AI infrastructure to ship clean, maintainable, and battle-tested backends.
+**Backend & AI Infrastructure Engineer** building **production-grade, high-performance systems** distributed systems, real-time AI applications, and reliability tooling.
+
+My work focuses on the engineering behind AI products,streaming inference, fault-tolerant task processing, retrieval systems, observability, and backend architectures that continue working under failure.
 
 ---
 
 ### 🧠 What I Do
-- Architect **fault-tolerant distributed systems** with Celery, Redis, and AWS SQS
-- Build **high-performance RAG pipelines** and self-healing MLOps workflows
-- Design **real-time microservices** using FastAPI + gRPC
-- Implement **robust security & multi-tenancy** (JWT, RBAC, AWS Cognito)
-- Optimize **Core Web Vitals** and async architectures for production scale
-- Contribute to open-source AI infrastructure projects
+- Design fault-tolerant distributed systems with Celery, Redis, and AWS.
+- Build production AI infrastructure including voice AI, retrieval, and LLM orchestration.
+- Optimize latency across real-time inference pipelines.
+- Engineer reliable async backends using FastAPI, gRPC, and PostgreSQL.
+- Build observability into AI systems using OpenTelemetry and Langfuse.
+- Contribute to open-source backend and AI infrastructure projects.
 
 ---
 
 ### 🛠 Tech Stack
 
 **Languages**  
-Python (Async) • SQL (PostgreSQL) • Protobuf
+Python (Async) • SQL (PostgreSQL) • Protobuf • Javascript
 
 **Backend & Distributed Systems**  
-FastAPI • gRPC • Celery • Redis (Lua scripts) • SQLAlchemy • Alembic • AWS SQS • JWT • RBAC
+FastAPI • gRPC • Celery • Redis (Lua) • SQLAlchemy • Docker
 
-**AI & Vector Engineering**  
-LlamaIndex (Workflows & RAG) • pgvector (HNSW) • ONNX Runtime • Ollama • Scikit-learn
+**AI Systems**  
+LlamaIndex • CrewAI • LiteLLM • Weaviate • pgvector • ONNX Runtime • Langfuse
 
-**Infrastructure & DevOps**  
-Docker • Docker Compose • AWS (Lambda, S3, Cognito, SQS) • GitHub Actions • LocalStack
+**LLMs**
+OpenAI • Anthropic • Gemini • Ollama
 
-**Specialized**  
-Embedded Systems (Raspberry Pi) • Sensor Fusion • Real-time Fraud Orchestration • Performance Optimization
+**Cloud**
+AWS • GitHub Actions • LocalStack
+
 
 ---
 
@@ -41,14 +43,14 @@ Embedded Systems (Raspberry Pi) • Sensor Fusion • Real-time Fraud Orchestrat
 Open-source reliability layer implementing the Phoenix Pattern.
 100% task delivery under worker failure. `pip install relier`
 
-**Engram — High-Performance RAG & Document Intelligence**  
-Production-ready Retrieval-Augmented Generation platform with pgvector HNSW indexing, Celery + Redis async pipelines, SHA-256 deduplication, and hardware-accelerated inference (RTX 4060). Features JWT multi-tenancy and zero data-loss guarantees.
+**Gia — Voice Music Companion**
+Conversational voice AI combining streaming speech, low-latency orchestration, and reflective long-term memory. Features speculative generation and distilled classification to achieve sub-60ms intent routing and ultra-low latency playback, backed by a Weaviate hybrid-retrieval memory consolidation engine.
 
 **Phalanx — Real-Time Fraud Orchestration & MLOps Engine**  
 High-throughput microservice ecosystem (FastAPI + gRPC) achieving 66ms transaction SLA and sub-millisecond ML inference. Includes self-healing retraining pipelines, ONNX-optimized XGBoost, agentic AI (Gemma), and AWS Cognito RBAC.
 
-**E-Pharmacy E-commerce Backend**  
-Scalable multi-module system with user management, order lifecycle, inventory, Stripe payments, and real-time reconciliation.
+**Engram — High-Performance RAG & Document Intelligence**  
+Production-ready Retrieval-Augmented Generation platform with pgvector HNSW indexing, Celery + Redis async pipelines, SHA-256 deduplication, and hardware-accelerated inference (RTX 4060). Features JWT multi-tenancy and zero data-loss guarantees.
 
 ---
 
