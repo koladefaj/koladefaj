@@ -70,6 +70,7 @@ Production-ready Retrieval-Augmented Generation platform with pgvector HNSW inde
 ### 📫 Let’s Connect
 - **GitHub:** [github.com/koladefaj](https://github.com/koladefaj)
 - **LinkedIn:** [linkedin.com/in/kolade-fajimi](https://linkedin.com/in/kolade-fajimi-1504b8246)
+- **Email** [fajimikolade@gmail.com](https://mail.to:fajimikolade@gmail.com)
 - **X / Twitter:** [@akoladefaj](https://x.com/akoladefaj)
 - **Resume:** Available on request
 
